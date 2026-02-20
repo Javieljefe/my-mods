@@ -9,18 +9,18 @@ I usually make mods focused on immersion, gameplay improvements, and quality-of-
 ## Kenshi
 
 - **Clone Wars Era Conversion**  
-  A Clone Wars overhaul for Kenshi.  
-  🔗 Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3114057406
-  🔗 Nexus: https://www.nexusmods.com/kenshi/mods/1302
+  A Clone Wars overhaul for Kenshi.
+  - 🔗 Steam: https://steamcommunity.com/sharedfiles/filedetails/?id=3114057406
+  - 🔗 Nexus: https://www.nexusmods.com/kenshi/mods/1302
 
 ---
 
 ## Minecraft
 
 - **Villagers Reborn**  
-  Adds human villagers to Minecraft.  
-  🔗 CurseForge: https://www.curseforge.com/minecraft/mc-mods/villagers-reborn
-  🔗 Modrinth: https://modrinth.com/mod/villagers-reborn
+  Adds human villagers to Minecraft.
+  - 🔗 CurseForge: https://www.curseforge.com/minecraft/mc-mods/villagers-reborn
+  - 🔗 Modrinth: https://modrinth.com/mod/villagers-reborn
 
 - **Cobblemon Type Chart**  
   Adds a Pokémon type table.  
