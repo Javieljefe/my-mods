@@ -23,9 +23,9 @@ I usually make mods focused on immersion, gameplay improvements, and quality-of-
   - 🔗 Modrinth: https://modrinth.com/mod/villagers-reborn
 
 - **Cobblemon Type Chart**  
-  Adds a Pokémon type table.  
-  🔗 CurseForge: https://www.curseforge.com/minecraft/mc-mods/pokemon-type-table-cobblemon-pixelmon
-  🔗 Modrinth: https://modrinth.com/mod/cobblemon-type-chart
+  Adds a Pokémon type table.
+  - 🔗 CurseForge: https://www.curseforge.com/minecraft/mc-mods/pokemon-type-table-cobblemon-pixelmon
+  - 🔗 Modrinth: https://modrinth.com/mod/cobblemon-type-chart
 
 ---
 
